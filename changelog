@@ -2,6 +2,10 @@
 - This changelog is intended to provide guideance and feedback as the site is developed. Notification of calculation tool additions/revisions will be kept here.
 
 ## November 2025
+14.11.2025
+-Added CO2 calculator button and associated page
+-Added total energy consumption to Power calculation page
+-Minor text changes made to main page
 02.11.2025 
 - Added operating cost estimator to BHP calculator html
 - Created changelog to enable feedback and user tracking of updates
